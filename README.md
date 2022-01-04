@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ElisonM
 - 👀 I’m interested in sciences, coding and religion
 - 🌱 I’m currently learning basic coding
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me use my email
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me - please use my email
 
 <!---
 ElisonM/ElisonM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
